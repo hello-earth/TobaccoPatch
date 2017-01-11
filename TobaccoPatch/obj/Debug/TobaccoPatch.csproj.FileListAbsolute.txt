@@ -1,0 +1,16 @@
+D:\dev\c_sharp\TobaccoPatch\TobaccoPatch\obj\Debug\TobaccoPatch.csprojResolveAssemblyReference.cache
+D:\dev\c_sharp\TobaccoPatch\TobaccoPatch\bin\Debug\TobaccoPatch.exe.config
+D:\dev\c_sharp\TobaccoPatch\TobaccoPatch\bin\Debug\TobaccoPatch.exe
+D:\dev\c_sharp\TobaccoPatch\TobaccoPatch\bin\Debug\TobaccoPatch.pdb
+D:\dev\c_sharp\TobaccoPatch\TobaccoPatch\obj\Debug\TobaccoPatch.exe
+D:\dev\c_sharp\TobaccoPatch\TobaccoPatch\obj\Debug\TobaccoPatch.pdb
+D:\dev\c_sharp\TobaccoPatch\TobaccoPatch\obj\Debug\TobaccoPatch.MainForm.resources
+D:\dev\c_sharp\TobaccoPatch\TobaccoPatch\obj\Debug\TobaccoPatch.csproj.GenerateResource.Cache
+D:\DEV\code\c#\TobaccoPatch\TobaccoPatch\bin\Debug\TobaccoPatch.exe.config
+D:\DEV\code\c#\TobaccoPatch\TobaccoPatch\bin\Debug\TobaccoPatch.exe
+D:\DEV\code\c#\TobaccoPatch\TobaccoPatch\bin\Debug\TobaccoPatch.pdb
+D:\DEV\code\c#\TobaccoPatch\TobaccoPatch\obj\Debug\TobaccoPatch.csprojResolveAssemblyReference.cache
+D:\DEV\code\c#\TobaccoPatch\TobaccoPatch\obj\Debug\TobaccoPatch.MainForm.resources
+D:\DEV\code\c#\TobaccoPatch\TobaccoPatch\obj\Debug\TobaccoPatch.csproj.GenerateResource.Cache
+D:\DEV\code\c#\TobaccoPatch\TobaccoPatch\obj\Debug\TobaccoPatch.exe
+D:\DEV\code\c#\TobaccoPatch\TobaccoPatch\obj\Debug\TobaccoPatch.pdb
